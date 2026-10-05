@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# WiMO output
+wimo_report_*.md
+wimo_report_*.html
+wimo_devices_*.csv
+wimo_audit_*.csv
+wimo_audit_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
