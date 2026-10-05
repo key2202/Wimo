@@ -1,0 +1,13 @@
+ID,IP,MAC,Hostname,Alias,Vendor,Type,Status,Rate
+1,192.168.200.1,04:f4:1c:60:00:d2,_gateway,-,Router/AP,Router/AP,free,-
+2,192.168.200.2,28:d0:43:52:18:fc,-,-,Xiaomi/POCO,Xiaomi Device,free,-
+3,192.168.200.19,44:af:28:03:65:7e,-,-,Unknown,Unknown,free,-
+4,192.168.200.41,ee:28:65:82:51:c6,-,-,Unknown,Unknown,free,-
+5,192.168.200.198,56:35:a8:ba:de:a9,-,samsung s24 fe,Unknown,Unknown,blocked,0 kbit
+6,192.168.201.4,c0:e4:34:97:23:53,-,-,Router (ZTE?),Router/AP,free,-
+7,192.168.201.27,b4:b5:b6:7c:39:5b,-,-,Xiaomi/POCO,Xiaomi Device,free,-
+8,192.168.201.119,a0:51:0b:2c:9b:56,-,-,Unknown,Unknown,free,-
+9,192.168.201.133,28:d0:43:52:18:fc,-,-,Xiaomi/POCO,Xiaomi Device,free,-
+10,192.168.201.146,c0:e4:34:97:08:bf,-,-,Router (ZTE?),Router/AP,free,-
+11,192.168.201.157,2c:3b:70:6d:e5:1b,-,-,Xiaomi/POCO,Xiaomi Device,free,-
+12,192.168.201.216,24:fd:52:93:7b:1f,-,-,Router (ZTE?),Router/AP,free,-
